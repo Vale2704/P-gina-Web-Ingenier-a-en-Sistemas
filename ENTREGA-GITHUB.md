@@ -2,7 +2,7 @@
 
 Sigue estos pasos para cumplir con la entrega del repositorio y los 2 Pull Requests.
 
-## 1. Crear el repositorio en GitHub
+## 1. Crear el repositorio en GitHub (ya automatizado con gh)
 
 1. Entra en [github.com](https://github.com) e inicia sesión.
 2. Haz clic en **New repository** (o **+** → **New repository**).
@@ -11,7 +11,7 @@ Sigue estos pasos para cumplir con la entrega del repositorio y los 2 Pull Reque
 5. No marques "Add a README" si ya tienes los archivos en tu PC.
 6. Clic en **Create repository**.
 
-## 2. Subir el proyecto desde tu PC (rama main)
+## 2. Subir el proyecto desde tu PC (rama main) — también automatizado en esta práctica
 
 Abre PowerShell en la carpeta del proyecto y ejecuta:
 
