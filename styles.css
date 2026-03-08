@@ -68,7 +68,7 @@ body {
     letter-spacing: 0.05em;
 }
 
-/* ========== MENÚ DE NAVEGACIÓN ========== */
+/* ========== MENÚ DE NAVEGACIÓN (PR #1: pequeños ajustes de estilo) ========== */
 .menu-navegacion ul {
     list-style: none;
     display: flex;
